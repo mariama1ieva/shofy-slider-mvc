@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\viewmodels\\slider\\sliderupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\viewmodels\\slider\\sliderupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\helpers\\extentions\\fileextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\helpers\\extentions\\fileextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\viewmodels\\slider\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\viewmodels\\slider\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\areas\\admin\\views\\slider\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\areas\\admin\\views\\slider\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\backendminitask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\backendminitask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|c:\\users\\asus\\onedrive\\desktop\\backshofy\\backendminitask\\migrations\\20240601235001_slidertableadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA801CDE-3892-477F-9BB3-58D4457E565B}|BackendMiniTask\\BackendMiniTask.csproj|solutionrelative:backendminitask\\migrations\\20240601235001_slidertableadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniTask\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeToolTip": "BackendMiniTask\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T04:45:12.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Areas\\Admin\\Views\\Slider\\Detail.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniTask\\Areas\\Admin\\Views\\Slider\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Areas\\Admin\\Views\\Slider\\Detail.cshtml",
+              "RelativeToolTip": "BackendMiniTask\\Areas\\Admin\\Views\\Slider\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T04:45:13.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniTask\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "BackendMiniTask\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAALoAAAAAAAAAAAAEwMkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T04:45:13.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "BackendMiniTask\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "BackendMiniTask\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAQwGgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:45:13.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SliderUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\ViewModels\\Slider\\SliderUpdateVM.cs",
+              "RelativeDocumentMoniker": "BackendMiniTask\\ViewModels\\Slider\\SliderUpdateVM.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\ViewModels\\Slider\\SliderUpdateVM.cs",
+              "RelativeToolTip": "BackendMiniTask\\ViewModels\\Slider\\SliderUpdateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:45:13.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Helpers\\Extentions\\FileExtentions.cs",
+              "RelativeDocumentMoniker": "BackendMiniTask\\Helpers\\Extentions\\FileExtentions.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Helpers\\Extentions\\FileExtentions.cs",
+              "RelativeToolTip": "BackendMiniTask\\Helpers\\Extentions\\FileExtentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:45:13.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniTask\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BackendMiniTask\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T04:45:13.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniTask\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "BackendMiniTask\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T04:45:13.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SliderCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\ViewModels\\Slider\\SliderCreateVM.cs",
+              "RelativeDocumentMoniker": "BackendMiniTask\\ViewModels\\Slider\\SliderCreateVM.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\ViewModels\\Slider\\SliderCreateVM.cs",
+              "RelativeToolTip": "BackendMiniTask\\ViewModels\\Slider\\SliderCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:45:13.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "BackendMiniTask\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Models\\Slider.cs",
+              "RelativeToolTip": "BackendMiniTask\\Models\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:45:13.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniTask\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "BackendMiniTask\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T04:45:13.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniTask\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BackendMiniTask\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T04:45:13.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BackendMiniTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIEAAAAAAAAAAAAABwEAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T04:45:13.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BackendMiniTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T04:45:13.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Program.cs",
+              "RelativeDocumentMoniker": "BackendMiniTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Program.cs",
+              "RelativeToolTip": "BackendMiniTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:45:13.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BackendMiniTask\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "BackendMiniTask\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:45:13.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240601235001_SliderTableAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Migrations\\20240601235001_SliderTableAdded.cs",
+              "RelativeDocumentMoniker": "BackendMiniTask\\Migrations\\20240601235001_SliderTableAdded.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Migrations\\20240601235001_SliderTableAdded.cs",
+              "RelativeToolTip": "BackendMiniTask\\Migrations\\20240601235001_SliderTableAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:45:13.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BackendMiniTask\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BackendMiniTask\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:45:13.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendMiniTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\appsettings.json",
+              "RelativeToolTip": "BackendMiniTask\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T04:45:13.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BackendMiniTask\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "BackendMiniTask\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:45:13.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BackendMiniTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BackendMiniTask\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABRwAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:45:13.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BackendMiniTask.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\BackendMiniTask.csproj",
+              "RelativeDocumentMoniker": "BackendMiniTask\\BackendMiniTask.csproj",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\BackendMiniTask.csproj",
+              "RelativeToolTip": "BackendMiniTask\\BackendMiniTask.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T04:45:13.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BackendMiniTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4BAAAAAAAAAIAwwC4BAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T04:45:13.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "BackendMiniTask\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\backshofy\\BackendMiniTask\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "BackendMiniTask\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-02T04:45:13.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
